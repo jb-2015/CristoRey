@@ -1,0 +1,19 @@
+.textFooter{
+	color:white;
+}
+.pdd{
+	color: var(--color3);
+	font-weight: bold;
+}
+#correoForm{
+	width: 92.5%;
+	margin-left: 2%;
+}
+.c4>button{
+	width: 96.5%;
+}
+footer h4{
+	color: var(--color5);
+	font-family: sans-serif;
+	opacity: 0.2;
+}
