@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1842" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1544" value="Nuestra Condicion" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF761C;fontSize=21;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1544" value="Nuestra Condicion" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF761C;fontSize=21;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="120" y="215" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1545" value="No encontramos un sentido" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1545" value="No encontramos un sentido" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="145" y="430" width="205" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1546" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8QwUIdv59JDNFcZYNyJV-1544" target="8QwUIdv59JDNFcZYNyJV-1545">
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1546" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8QwUIdv59JDNFcZYNyJV-1544" target="8QwUIdv59JDNFcZYNyJV-1545" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="360" as="sourcePoint" />
             <mxPoint x="550" y="420" as="targetPoint" />
@@ -19,13 +19,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1548" value="Tomamos decisiones que nos pueden hacer Daño" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1548" value="Tomamos decisiones que nos pueden hacer Daño" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="145" y="630" width="205" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1550" value="Nos cuesta discernir entre el bien y el mal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8QwUIdv59JDNFcZYNyJV-1550" target="eBeqlfXdFcknBQ0bVVcv-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="1010" />
+              <mxPoint x="240" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1550" value="Nos cuesta discernir entre el bien y el mal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="145" y="827" width="205" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1551" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8QwUIdv59JDNFcZYNyJV-1545" target="8QwUIdv59JDNFcZYNyJV-1548">
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1551" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8QwUIdv59JDNFcZYNyJV-1545" target="8QwUIdv59JDNFcZYNyJV-1548" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="540" as="sourcePoint" />
             <mxPoint x="234" y="590" as="targetPoint" />
@@ -34,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1552" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8QwUIdv59JDNFcZYNyJV-1548" target="8QwUIdv59JDNFcZYNyJV-1550">
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1552" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8QwUIdv59JDNFcZYNyJV-1548" target="8QwUIdv59JDNFcZYNyJV-1550" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="104" y="690" as="sourcePoint" />
             <mxPoint x="104" y="776" as="targetPoint" />
@@ -43,33 +51,115 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1553" value="&lt;strong&gt;Eclesiastés 2:11&lt;/strong&gt;&lt;br&gt;Luego me puse a considerar todo lo que mis manos habían hecho y todo el trabajo que me había costado, y me di cuenta de que todo ello no tenía sentido, era como perseguir el viento." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;size=40;position=0.5;base=45;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1553" value="&lt;strong&gt;Eclesiastés 2:11&lt;/strong&gt;&lt;br&gt;Luego me puse a considerar todo lo que mis manos habían hecho y todo el trabajo que me había costado, y me di cuenta de que todo ello no tenía sentido, era como perseguir el viento." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;size=40;position=0.5;base=45;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-170" y="310" width="290" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1555" value="&lt;strong&gt;Proverbios 14:12&lt;/strong&gt;&lt;br&gt;Hay caminos que al hombre le parecen rectos, pero que al final conducen a la muerte." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;size=40;position=0.5;base=45;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1555" value="&lt;strong&gt;Proverbios 14:12&lt;/strong&gt;&lt;br&gt;Hay caminos que al hombre le parecen rectos, pero que al final conducen a la muerte." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;size=40;position=0.5;base=45;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-170" y="520" width="290" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1556" value="Escuche Hablar de Dios" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF761C;fontFamily=Tahoma;fontColor=default;labelBackgroundColor=none;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8QwUIdv59JDNFcZYNyJV-1556" target="eBeqlfXdFcknBQ0bVVcv-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="350" />
+              <mxPoint x="570" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1556" value="Escuche Hablar de Dios" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF761C;fontFamily=Tahoma;fontColor=default;labelBackgroundColor=none;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="560" y="210" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1558" value="Dios me recibe" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF761C;fontFamily=Tahoma;fontColor=default;labelBackgroundColor=none;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1558" value="Dios me recibe" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF761C;fontFamily=Tahoma;fontColor=default;labelBackgroundColor=none;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="980" y="210" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1560" value="&lt;p data-sourcepos=&quot;3:1-3:16&quot;&gt;&lt;strong&gt;Hebreos 5:14&lt;/strong&gt;&lt;/p&gt;&lt;p data-sourcepos=&quot;3:1-3:16&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pero el alimento sólido es para los que han alcanzado la madurez, para los que por el uso tienen los sentidos ejercitados en el discernimiento del bien y del mal&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;size=40;position=0.5;base=45;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1560" value="&lt;p data-sourcepos=&quot;3:1-3:16&quot;&gt;&lt;strong&gt;Hebreos 5:14&lt;/strong&gt;&lt;/p&gt;&lt;p data-sourcepos=&quot;3:1-3:16&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pero el alimento sólido es para los que han alcanzado la madurez, para los que por el uso tienen los sentidos ejercitados en el discernimiento del bien y del mal&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;size=40;position=0.5;base=45;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-170" y="710" width="290" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1561" value="Hacer referencia a un manual de usuario" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="970" width="180" height="150" as="geometry" />
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1561" value="Hacer referencia a un manual de usuario" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="820" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1562" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0.342;exitY=0.813;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8QwUIdv59JDNFcZYNyJV-1560" target="8QwUIdv59JDNFcZYNyJV-1561">
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1562" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0.342;exitY=0.813;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=180;entryDy=90;entryPerimeter=0;" parent="1" source="8QwUIdv59JDNFcZYNyJV-1560" target="8QwUIdv59JDNFcZYNyJV-1561" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-100" y="940" as="sourcePoint" />
             <mxPoint x="60" y="930" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-160" y="950" />
               <mxPoint x="-40" y="910" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-1" value="No sabemos que hacer cuando las situaciones nos abruman" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1100" width="205" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-3" value="&lt;p data-sourcepos=&quot;3:1-3:16&quot;&gt;&lt;strong&gt;Filipenses 4:6-7&lt;/strong&gt;: &quot;No se preocupen por nada; en cambio, oren sobre todo. Pidan a Dios lo que necesiten, y sean agradecidos. Así la paz de Dios, que nadie entiende, guardará su corazón y su mente en Cristo Jesús.&quot;&lt;/p&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;size=40;position=0.5;base=65;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="960" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="eBeqlfXdFcknBQ0bVVcv-4" target="eBeqlfXdFcknBQ0bVVcv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-4" value="¿Cuál fue mi reacción cuando alguien me hablo de Dios?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="555" y="430" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="eBeqlfXdFcknBQ0bVVcv-6" target="eBeqlfXdFcknBQ0bVVcv-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="eBeqlfXdFcknBQ0bVVcv-6" target="eBeqlfXdFcknBQ0bVVcv-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="eBeqlfXdFcknBQ0bVVcv-6" target="eBeqlfXdFcknBQ0bVVcv-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-6" value="Creimos" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="580" width="135" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="eBeqlfXdFcknBQ0bVVcv-7" target="eBeqlfXdFcknBQ0bVVcv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-7" value="Si" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="645" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-8" value="Mas o menos" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="625" y="740" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-9" value="No" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="810" y="645" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-13" value="Gloria a Dios!&lt;div&gt;Tomaste la mejor decision&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="450" y="800" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="390" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="840" y="225" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Dudas&lt;/h1&gt;&lt;p&gt;&lt;font&gt;Es normal tener dudas en algo que recien estamos conociendo.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font&gt;y nos surgen una serie de Preguntas&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="615" y="840" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-20" value="Existe Dios realmente?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1030" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-21" value="Si Dios existe, ¿por qué permite el sufrimiento en el mundo?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1100" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-22" value="¿Cómo puedo saber cuál religión es la verdadera?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1200" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-23" value="¿Qué pasa si no creo en Dios?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1290" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeqlfXdFcknBQ0bVVcv-24" value="&lt;strong&gt;¿Cómo puedo tener una relación personal con Dios?&lt;/strong&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="570" y="1360" width="285" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
