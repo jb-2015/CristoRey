@@ -1,11 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="897" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1997" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8QwUIdv59JDNFcZYNyJV-1542" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="200" width="240" height="120" as="geometry" />
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1544" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;noLabel=1;fillColor=#FF761C;" vertex="1" parent="1">
+          <mxGeometry x="120" y="215" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1543" value="Nuestra Condicion Inicial" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="136" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1545" value="No encontramos un sentido" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="145" y="430" width="205" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1546" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8QwUIdv59JDNFcZYNyJV-1544" target="8QwUIdv59JDNFcZYNyJV-1545">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="360" as="sourcePoint" />
+            <mxPoint x="550" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1548" value="Tomamos decisiones que nos pueden hacer Daño" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="145" y="630" width="205" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1550" value="Nos cuesta discernir entre el bien y el mal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="145" y="827" width="205" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1551" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8QwUIdv59JDNFcZYNyJV-1545" target="8QwUIdv59JDNFcZYNyJV-1548">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="540" as="sourcePoint" />
+            <mxPoint x="234" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1552" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8QwUIdv59JDNFcZYNyJV-1548" target="8QwUIdv59JDNFcZYNyJV-1550">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104" y="690" as="sourcePoint" />
+            <mxPoint x="104" y="776" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QwUIdv59JDNFcZYNyJV-1553" value="&lt;strong&gt;Eclesiastés 2:11&lt;/strong&gt;&lt;br&gt;Luego me puse a considerar todo lo que mis manos habían hecho y todo el trabajo que me había costado, y me di cuenta de que todo ello no tenía sentido, era como perseguir el viento." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;size=40;position=0.5;base=45;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="310" width="290" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
